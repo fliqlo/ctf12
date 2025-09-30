@@ -10,7 +10,7 @@ Each .JPG's is important. \
 Each .JPG's has its own digit. \
 Without this digit you can't find the flag. \
 Without this digit you can't solve the puzzle. \
-Make sure you find the digits. \
+Make sure you find the digits.
 
 **Use only "identify command"**
 
