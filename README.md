@@ -1,5 +1,5 @@
 
-# ctf12 Puzzle
+# ctf12 Metadata
 Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 📝 **INSTRUCTIONS**:
@@ -12,6 +12,6 @@ Without this digit you can't find the flag. \
 Without this digit you can't solve the puzzle. \
 Make sure you find the digits.
 
-**Use only "identify "** command
+**Use "identify" command only**
 
 # Sumbit the flag here:
