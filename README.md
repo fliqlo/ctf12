@@ -16,3 +16,4 @@ Make sure you find the digits.
 ~~this is a comment~~
 
 # Sumbit the flag here:
+https://forms.gle/f1G8BAPPAhFi4RKG6
