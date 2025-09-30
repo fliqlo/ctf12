@@ -12,7 +12,7 @@ Without this digit you can't find the flag. \
 Without this digit you can't solve the puzzle. \
 Make sure you find the digits.
 
-**Use "identify" command only**
+**Use "identify" command only** \
 ~~this is a comment~~
 
 # Sumbit the flag here:
